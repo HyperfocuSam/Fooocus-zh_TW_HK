@@ -17,9 +17,7 @@ Original repository : https://github.com/lllyasviel/Fooocus/tree/main ; v2.5.5, 
 
 Translation mainly powered by Claude 3 Opus. Will be followed by manual review and fine-tune.
 
-##Setting up
-
-- Translated instruction 
+## Setting up | Translated instruction 
 
 您可以將json文件放在language文件夾中以翻譯用戶界面。
 
